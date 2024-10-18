@@ -216,13 +216,23 @@ export const arcn5005Lectures: Lectures = [
     ],
     recordings: [
       {
+        url: 'https://www.youtube.com/embed/a7hWyWWJ3oQ?si=qxNqEVF2Q99S7Bfb',
+        title: 'OSArch - Open source for architects community - Fall 2024',
+        date: dayjs('2024/10/09'),
+      },
+      {
+        url: 'https://www.youtube.com/embed/Qe2Bdh8Tpoc?si=5hVQ7_MVfWYrDovm',
+        title: 'Introduction to CSS - Fall 2024',
+        date: dayjs('2024/10/09'),
+      },
+      {
         url: 'https://www.youtube.com/embed/mBQb2ILySfg?si=CBeJKdvHX9_VV_h3',
-        title: 'OSArch - Open source for architects community',
+        title: 'OSArch - Open source for architects community - Fall 2023',
         date: dayjs('2023/10/12'),
       },
       {
         url: 'https://www.youtube.com/embed/nJAVn_VEt58?si=fZhMLNeyMfVlDfIg',
-        title: 'Introduction to CSS',
+        title: 'Introduction to CSS - Fall 2023',
         date: dayjs('2023/10/12'),
       },
     ],
@@ -246,8 +256,19 @@ export const arcn5005Lectures: Lectures = [
     ],
     recordings: [
       {
+        url: 'https://www.youtube.com/embed/RjMWyDfLOwY?si=6rM9SCsHUbW04BWN',
+        title:
+          'Assignment 1 That Open Engine template   BIM software - Fall 2024',
+        date: dayjs('2023/10/19'),
+      },
+      {
+        url: 'https://www.youtube.com/embed/g3GxMstbgDc?si=5VXjfc2G_5JrnTCU',
+        title: 'Raphael Vouilloz - BonsaiBIM - Fall 2024',
+        date: dayjs('2024/10/16'),
+      },
+      {
         url: 'https://www.youtube.com/embed/GCYKolrSog0?si=TjahHdVCEB41w9B7',
-        title: 'Raphael Vouilloz - BonsaiBIM',
+        title: 'Raphael Vouilloz - BlenderBIM - Fall 2023',
         date: dayjs('2023/10/19'),
       },
     ],
